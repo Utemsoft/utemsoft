@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Utemsoft/utemsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://images.griddo.udit.es/c/cover/q/70/w/1000/h/474/p/center/f/jpeg/seguridad-informatica)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mi
+
+Soy un profesional con amplia experiencia en administración de servidores, infraestructura IT, redes, seguridad informática y sistemas de respaldo (backups). He trabajado en el diseño, implementación y mantenimiento de infraestructuras robustas y seguras, optimizando el rendimiento y la disponibilidad de los servicios. Además, cuento con conocimientos sólidos en CCTV, virtualización, monitoreo y automatización de procesos. Me apasiona la tecnología, la mejora continua y el aprendizaje constante.
+
+
+## 🛠 Skills
+Linux
+
+Windows Server
+
+Fortinet
+
+Linksys
+
+Proxmox
+
+AWS
+
+Synology NAS
+
+Copilot Studio
+
+N8N
+
+Muchos Mas...
+
